@@ -1,10 +1,5 @@
 # MERN E-Commerce Website
 
-![ShopEase Demo](client/public/demo1.png)
-![ShopEase Product Grid](client/public/demo2.png)
-
-[![MIT License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
-[![GitHub stars](https://img.shields.io/github/stars/Sharath8i/E-Commerce?style=social)](https://github.com/Sharath8i/E-Commerce/stargazers)
 
 A modern, full-stack e-commerce website inspired by Flipkart and Amazon, built with the **MERN stack** (MongoDB, Express.js, React, Node.js).
 
